@@ -1,0 +1,176 @@
+{
+    "title": "iphone",
+    "date": "05/10/2020 16:32:53",
+    "currency": "\u20b9",
+    "base_link": "https://www.flipkart.com",
+    "products": [
+        {
+            "product_id": "itm832dd5963a08d",
+            "url": "https://www.flipkart.com/apple-iphone-se-black-64-gb/p/itm832dd5963a08d",
+            "title": "Apple iPhone SE (Black, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 37900.0
+        },
+        {
+            "product_id": "itmaf546e27c4eaf",
+            "url": "https://www.flipkart.com/apple-iphone-se-white-64-gb/p/itmaf546e27c4eaf",
+            "title": "Apple iPhone SE (White, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 37900.0
+        },
+        {
+            "product_id": "itm6e9443811d36a",
+            "url": "https://www.flipkart.com/apple-iphone-se-red-64-gb/p/itm6e9443811d36a",
+            "title": "Apple iPhone SE (Red, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 37900.0
+        },
+        {
+            "product_id": "itm2644c3764fc54",
+            "url": "https://www.flipkart.com/apple-iphone-11-white-64-gb/p/itm2644c3764fc54",
+            "title": "Apple iPhone 11 (White, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 61990.0
+        },
+        {
+            "product_id": "itm82fa36b77c804",
+            "url": "https://www.flipkart.com/apple-iphone-se-black-128-gb/p/itm82fa36b77c804",
+            "title": "Apple iPhone SE (Black, 128 GB)",
+            "seller": "SuperComNet",
+            "price": 43900.0
+        },
+        {
+            "product_id": "itmf9z7zxu4uqyz2",
+            "url": "https://www.flipkart.com/apple-iphone-xr-black-64-gb/p/itmf9z7zxu4uqyz2",
+            "title": "Apple iPhone XR (Black, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 47500.0
+        },
+        {
+            "product_id": "itmf9z7zhgzkmgm3",
+            "url": "https://www.flipkart.com/apple-iphone-xr-white-64-gb/p/itmf9z7zhgzkmgm3",
+            "title": "Apple iPhone XR (White, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 47500.0
+        },
+        {
+            "product_id": "itmf9z7zhydhtbn5",
+            "url": "https://www.flipkart.com/apple-iphone-xr-product-red-64-gb/p/itmf9z7zhydhtbn5",
+            "title": "Apple iPhone XR ((PRODUCT)RED, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 47500.0
+        },
+        {
+            "product_id": "itm0bc87f7f6d418",
+            "url": "https://www.flipkart.com/apple-iphone-11-purple-64-gb/p/itm0bc87f7f6d418",
+            "title": "Apple iPhone 11 (Purple, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 61990.0
+        },
+        {
+            "product_id": "itm55d4e3652bd92",
+            "url": "https://www.flipkart.com/apple-iphone-se-red-128-gb/p/itm55d4e3652bd92",
+            "title": "Apple iPhone SE (Red, 128 GB)",
+            "seller": "SuperComNet",
+            "price": 43900.0
+        },
+        {
+            "product_id": "itm0f37c2240b217",
+            "url": "https://www.flipkart.com/apple-iphone-11-black-64-gb/p/itm0f37c2240b217",
+            "title": "Apple iPhone 11 (Black, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 61990.0
+        },
+        {
+            "product_id": "itm5bf5efeb2e3b6",
+            "url": "https://www.flipkart.com/apple-iphone-se-white-128-gb/p/itm5bf5efeb2e3b6",
+            "title": "Apple iPhone SE (White, 128 GB)",
+            "seller": "SuperComNet",
+            "price": 43900.0
+        },
+        {
+            "product_id": "itmf9z7z4dgvug4h",
+            "url": "https://www.flipkart.com/apple-iphone-xr-blue-64-gb/p/itmf9z7z4dgvug4h",
+            "title": "Apple iPhone XR (Blue, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 47500.0
+        },
+        {
+            "product_id": "itmfdb5266c6e904",
+            "url": "https://www.flipkart.com/apple-iphone-11-green-64-gb/p/itmfdb5266c6e904",
+            "title": "Apple iPhone 11 (Green, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 61990.0
+        },
+        {
+            "product_id": "itmf9z7zqzzt7bmv",
+            "url": "https://www.flipkart.com/apple-iphone-xr-coral-64-gb/p/itmf9z7zqzzt7bmv",
+            "title": "Apple iPhone XR (Coral, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 47500.0
+        },
+        {
+            "product_id": "itmf9z7zhdgzwmzm",
+            "url": "https://www.flipkart.com/apple-iphone-xr-black-128-gb/p/itmf9z7zhdgzwmzm",
+            "title": "Apple iPhone XR (Black, 128 GB)",
+            "seller": "SuperComNet",
+            "price": 53500.0
+        },
+        {
+            "product_id": "itmen6davhyetcwf",
+            "url": "https://www.flipkart.com/apple-iphone-7-plus-black-32-gb/p/itmen6davhyetcwf",
+            "title": "Apple iPhone 7 Plus (Black, 32 GB)",
+            "seller": "TrueComRetail",
+            "price": 36999.0
+        },
+        {
+            "product_id": "itmf9z7zrz4tbhwm",
+            "url": "https://www.flipkart.com/apple-iphone-xr-white-128-gb/p/itmf9z7zrz4tbhwm",
+            "title": "Apple iPhone XR (White, 128 GB)",
+            "seller": "SuperComNet",
+            "price": 53500.0
+        },
+        {
+            "product_id": "itmf9z7zegyb2ush",
+            "url": "https://www.flipkart.com/apple-iphone-xr-blue-128-gb/p/itmf9z7zegyb2ush",
+            "title": "Apple iPhone XR (Blue, 128 GB)",
+            "seller": "SuperComNet",
+            "price": 53500.0
+        },
+        {
+            "product_id": "itmen6dawz2g5dry",
+            "url": "https://www.flipkart.com/apple-iphone-7-silver-32-gb/p/itmen6dawz2g5dry",
+            "title": "Apple iPhone 7 (Silver, 32 GB)",
+            "seller": "TrueComRetail",
+            "price": 29799.0
+        },
+        {
+            "product_id": "itmf9z7zbkvjzegf",
+            "url": "https://www.flipkart.com/apple-iphone-xr-product-red-128-gb/p/itmf9z7zbkvjzegf",
+            "title": "Apple iPhone XR ((PRODUCT)RED, 128 GB)",
+            "seller": "SuperComNet",
+            "price": 53500.0
+        },
+        {
+            "product_id": "itmf9z7z76tayfaq",
+            "url": "https://www.flipkart.com/apple-iphone-xr-yellow-64-gb/p/itmf9z7z76tayfaq",
+            "title": "Apple iPhone XR (Yellow, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 47500.0
+        },
+        {
+            "product_id": "itmf9z7zgxx5wgez",
+            "url": "https://www.flipkart.com/apple-iphone-xr-coral-128-gb/p/itmf9z7zgxx5wgez",
+            "title": "Apple iPhone XR (Coral, 128 GB)",
+            "seller": "SuperComNet",
+            "price": 53500.0
+        },
+        {
+            "product_id": "itmaf0c50869f4e6",
+            "url": "https://www.flipkart.com/apple-iphone-11-pro-silver-64-gb/p/itmaf0c50869f4e6",
+            "title": "Apple iPhone 11 Pro (Silver, 64 GB)",
+            "seller": "SuperComNet",
+            "price": 106600.0
+        }
+    ]
+}
