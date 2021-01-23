@@ -3,8 +3,6 @@ from selenium.webdriver.common.keys import Keys
 from datetime import datetime
 from pathlib import Path
 import json
-import qrcode
-import shutil
 from my_config import (
     get_web_driver_options,
     get_chrome_web_driver,
