@@ -3,6 +3,8 @@ from selenium.webdriver.common.keys import Keys
 from datetime import datetime
 from pathlib import Path
 import json
+import qrcode
+import shutil
 from my_config import (
     get_web_driver_options,
     get_chrome_web_driver,
@@ -81,7 +83,7 @@ class Flipkart_API:
             self.driver.get(temp_link)
             self.soup = get_soup_data(temp_link)
             time.sleep(1)
-            result_list = self.soup.findAll('a', class_='_31qSD5')
+            result_list = self.soup.findAll('a', class_='s1Q9rs')
             try:
                 # From each page you want to extract link
                 for link in result_list[:]:
@@ -128,7 +130,7 @@ class Flipkart_API:
 
     def get_title(self):
         try:
-            return self.soup.find('span', class_='_35KyD6').text
+            return self.soup.find('span', class_='B_NuCI').text
         except Exception as e:
             print("Didn't get the title !!")
             print(e)
@@ -147,7 +149,7 @@ class Flipkart_API:
     def get_price(self):
         price = None
         try:
-            price = self.soup.find('div', class_="_1vC4OE _3qQ9m1").text
+            price = self.soup.find('div', class_="_30jeq3 _16Jk6d").text
             price = self.convert_price(price)
             return price
         except Exception as e:
